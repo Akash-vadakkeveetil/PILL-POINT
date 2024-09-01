@@ -1,7 +1,9 @@
 # PillPoint
 ### Technologies planning to use
-- django for backend
-- html , css for frontend
+
+### The structure
+
+![STRUCTURE IMAGE](image.png)
 
 ### we will be also planning to give an updates page which will basically say about the versions and their releases like the one for gemini ai
 # The evolution of Idea
